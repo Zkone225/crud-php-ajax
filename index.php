@@ -25,6 +25,7 @@
             gestion stagiaire
         </div>
         <form id="formStagiaire">
+
             <input type="hidden" id="id"/>
             <div class="form-group">
                 <label for="prenom">Prénom</label>
